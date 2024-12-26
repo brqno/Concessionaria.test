@@ -1,0 +1,55 @@
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Menu Veículos.exe
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Menu Veículos.deps.json
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Menu Veículos.runtimeconfig.json
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Menu Veículos.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Menu Veículos.pdb
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.AssemblyInfo.cs
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\refint\Menu Veículos.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.pdb
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.genruntimeconfig.cache
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\ref\Menu Veículos.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Veículos.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\Menu Veículos\Menu Veículos\obj\Debug\net8.0\Menu Ve_.666E79AD.Up2Date
